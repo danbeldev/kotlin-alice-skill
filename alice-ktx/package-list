@@ -1,5 +1,15 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:com.github.alice.ktx.api.common.extensions////PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common.extensions/index.html
+$dokka.location:com.github.alice.ktx.api.common.extensions//response/io.ktor.client.statement.HttpResponse#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common.extensions/response.html
+$dokka.location:com.github.alice.ktx.api.common////PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/index.html
+$dokka.location:com.github.alice.ktx.api.common/Response.Failed///PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/-failed/index.html
+$dokka.location:com.github.alice.ktx.api.common/Response.Failed/Failed/#kotlin.String/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/-failed/-failed.html
+$dokka.location:com.github.alice.ktx.api.common/Response.Failed/message/#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/-failed/message.html
+$dokka.location:com.github.alice.ktx.api.common/Response.Success///PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/-success/index.html
+$dokka.location:com.github.alice.ktx.api.common/Response.Success/Success/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/-success/-success.html
+$dokka.location:com.github.alice.ktx.api.common/Response.Success/data/#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/-success/data.html
+$dokka.location:com.github.alice.ktx.api.common/Response///PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/index.html
 $dokka.location:com.github.alice.ktx.api.dialog.yandex.impl////PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.impl/index.html
 $dokka.location:com.github.alice.ktx.api.dialog.yandex.impl//ktorYandexDialogApi/com.github.alice.ktx.Skill.Builder#kotlin.Function1[com.github.alice.ktx.api.dialog.yandex.impl.KtorYandexDialogApi.Builder,kotlin.Unit]/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.impl/ktor-yandex-dialog-api.html
 $dokka.location:com.github.alice.ktx.api.dialog.yandex.impl/KtorYandexDialogApi.Builder///PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.impl/-ktor-yandex-dialog-api/-builder/index.html
@@ -53,6 +63,10 @@ $dokka.location:com.github.alice.ktx.api.dialog.yandex.models.status/Status///Po
 $dokka.location:com.github.alice.ktx.api.dialog.yandex.models.status/Status/Status/#com.github.alice.ktx.api.dialog.yandex.models.status.ImageStatus#com.github.alice.ktx.api.dialog.yandex.models.status.SoundStatus/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.models.status/-status/-status.html
 $dokka.location:com.github.alice.ktx.api.dialog.yandex.models.status/Status/images/#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.models.status/-status/images.html
 $dokka.location:com.github.alice.ktx.api.dialog.yandex.models.status/Status/sounds/#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.models.status/-status/sounds.html
+$dokka.location:com.github.alice.ktx.api.dialog.yandex.models////PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.models/index.html
+$dokka.location:com.github.alice.ktx.api.dialog.yandex.models/ErrorBody///PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.models/-error-body/index.html
+$dokka.location:com.github.alice.ktx.api.dialog.yandex.models/ErrorBody/ErrorBody/#kotlin.String/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.models/-error-body/-error-body.html
+$dokka.location:com.github.alice.ktx.api.dialog.yandex.models/ErrorBody/message/#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog.yandex.models/-error-body/message.html
 $dokka.location:com.github.alice.ktx.api.dialog////PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog/index.html
 $dokka.location:com.github.alice.ktx.api.dialog/DialogApi///PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog/-dialog-api/index.html
 $dokka.location:com.github.alice.ktx.api.dialog/DialogApi/deleteImage/#kotlin.String/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog/-dialog-api/delete-image.html
@@ -389,8 +403,11 @@ $dokka.location:com.github.alice.ktx/Skill.Builder/webServer/#/PointingToDeclara
 $dokka.location:com.github.alice.ktx/Skill///PointingToDeclaration/alice-ktx/com.github.alice.ktx/-skill/index.html
 $dokka.location:com.github.alice.ktx/Skill/run/#/PointingToDeclaration/alice-ktx/com.github.alice.ktx/-skill/run.html
 com.github.alice.ktx
+com.github.alice.ktx.api.common
+com.github.alice.ktx.api.common.extensions
 com.github.alice.ktx.api.dialog
 com.github.alice.ktx.api.dialog.yandex.impl
+com.github.alice.ktx.api.dialog.yandex.models
 com.github.alice.ktx.api.dialog.yandex.models.image
 com.github.alice.ktx.api.dialog.yandex.models.image.request
 com.github.alice.ktx.api.dialog.yandex.models.image.response
