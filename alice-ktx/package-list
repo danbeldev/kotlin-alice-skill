@@ -3,6 +3,7 @@ $dokka.linkExtension:html
 $dokka.location:com.github.alice.ktx.api.common.extensions////PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common.extensions/index.html
 $dokka.location:com.github.alice.ktx.api.common.extensions//response/io.ktor.client.statement.HttpResponse#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common.extensions/response.html
 $dokka.location:com.github.alice.ktx.api.common////PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/index.html
+$dokka.location:com.github.alice.ktx.api.common/ApiConstants///PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-api-constants/index.html
 $dokka.location:com.github.alice.ktx.api.common/Response.Failed///PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/-failed/index.html
 $dokka.location:com.github.alice.ktx.api.common/Response.Failed/Failed/#kotlin.String/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/-failed/-failed.html
 $dokka.location:com.github.alice.ktx.api.common/Response.Failed/message/#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.common/-response/-failed/message.html
@@ -74,6 +75,9 @@ $dokka.location:com.github.alice.ktx.api.dialog/DialogApi/getAllImages/#/Pointin
 $dokka.location:com.github.alice.ktx.api.dialog/DialogApi/getStatus/#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog/-dialog-api/get-status.html
 $dokka.location:com.github.alice.ktx.api.dialog/DialogApi/uploadImage/#java.io.File/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog/-dialog-api/upload-image.html
 $dokka.location:com.github.alice.ktx.api.dialog/DialogApi/uploadImage/#kotlin.String/PointingToDeclaration/alice-ktx/com.github.alice.ktx.api.dialog/-dialog-api/upload-image.html
+$dokka.location:com.github.alice.ktx.common////PointingToDeclaration/alice-ktx/com.github.alice.ktx.common/index.html
+$dokka.location:com.github.alice.ktx.common/LocalDateTimeSerializer///PointingToDeclaration/alice-ktx/com.github.alice.ktx.common/-local-date-time-serializer/index.html
+$dokka.location:com.github.alice.ktx.common/LocalDateTimeSerializer/LocalDateTimeSerializer/#/PointingToDeclaration/alice-ktx/com.github.alice.ktx.common/-local-date-time-serializer/-local-date-time-serializer.html
 $dokka.location:com.github.alice.ktx.handlers.error////PointingToDeclaration/alice-ktx/com.github.alice.ktx.handlers.error/index.html
 $dokka.location:com.github.alice.ktx.handlers.error//networkError/com.github.alice.ktx.Dispatcher#com.github.alice.ktx.handlers.error.NetworkErrorHandler/PointingToDeclaration/alice-ktx/com.github.alice.ktx.handlers.error/network-error.html
 $dokka.location:com.github.alice.ktx.handlers.error//networkError/com.github.alice.ktx.Dispatcher#kotlin.coroutines.SuspendFunction2[com.github.alice.ktx.models.request.MessageRequest,kotlin.Throwable,com.github.alice.ktx.models.response.MessageResponse?]/PointingToDeclaration/alice-ktx/com.github.alice.ktx.handlers.error/network-error.html
@@ -412,6 +416,7 @@ com.github.alice.ktx.api.dialog.yandex.models.image
 com.github.alice.ktx.api.dialog.yandex.models.image.request
 com.github.alice.ktx.api.dialog.yandex.models.image.response
 com.github.alice.ktx.api.dialog.yandex.models.status
+com.github.alice.ktx.common
 com.github.alice.ktx.handlers
 com.github.alice.ktx.handlers.error
 com.github.alice.ktx.middleware
